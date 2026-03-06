@@ -1,0 +1,10 @@
+## Interface: 120000, 120001
+## Version: 1.0.0
+## Title: HunterHomieReminder
+## Note: Simple addon to check if Hunter pet had a pulse.
+## Author: Jeremy-Gstein 
+## IconTexture: Interface\Icons\ability_hunter_beastcall
+## SavedVariables: HunterHomieReminderDB
+
+Locale/enUS.lua
+HunterHomieReminder.lua
