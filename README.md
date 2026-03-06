@@ -1,7 +1,7 @@
 # HunterHomieReminder
 Simple WoW addon to track and display when your Hunter pet is not around.
 
-<img width="328" height="167" alt="image" src="https://github.com/user-attachments/assets/38f85e4d-7ed8-4d5b-99ff-4247eff21f2b" />
+<img width="387" height="180" alt="image" src="https://github.com/user-attachments/assets/92a52d03-5dc5-4b29-8014-8bde70524ef6" />
 
 **Setup:**
 - Frame default is middle of screen.
