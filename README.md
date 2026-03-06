@@ -8,6 +8,7 @@ Simple WoW addon to track and display when your Hunter pet is not around.
 - Dismiss your pet and right click the frame to unlock. Move and Resize the frame to your liking.
 
 **Features:**
+- AddOn loads when playing a Beast Mastery, Survival, and Marksmanship Hunter (only when player is talented into Unbreakable Bond)
 - No complex state stacking, if we have **no** pet (dead of dismissed) we show the frame.
 - Minimal addon footprint respecting player in-game performance.
 
